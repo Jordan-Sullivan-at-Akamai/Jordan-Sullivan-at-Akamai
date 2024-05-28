@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jordan-Sullivan-at-Akamai
 - 👀 I’m interested in Web Optimization. Cache rules everything around me!
 - 🌱 I’m currently learning about Edge Computing
-- 💞️ I’m looking to collaborate on anything web performance or delivery related
+- 💞️ I’m looking to collaborate on anything web-performance or related
 - 📫 How to reach me : jsulliva@akamai.com
 - 😄 Pronouns: she/her
 
